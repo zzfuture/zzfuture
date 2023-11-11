@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzfuture" alt="zzfuture" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C#, JavaScript, CSS, HTML, BootStrap, dotNet Core**
+- 🌱 I’m currently learning **C#, .NET 7**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zzfuture](https://github.com/zzfuture)
 
